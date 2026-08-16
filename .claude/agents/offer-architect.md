@@ -1,7 +1,7 @@
 ---
 name: offer-architect
 description: Use this agent to design and structure an offer (pricing, packaging, positioning) once market signal research is available. STUB — not yet configured with real instructions; do not invoke for production work until this is filled in.
-tools: Read, Grep, Glob, Write
+tools: Read, Grep, Glob, Write, WebSearch, WebFetch
 model: inherit
 ---
 

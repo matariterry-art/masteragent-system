@@ -1,7 +1,7 @@
 ---
 name: content-angle-strategist
 description: Use this agent to turn a defined offer into content angles, hooks, and messaging directions. STUB — not yet configured with real instructions; do not invoke for production work until this is filled in.
-tools: Read, Grep, Glob, Write, WebSearch
+tools: Read, Grep, Glob, Write, WebSearch, WebFetch
 model: inherit
 ---
 
