@@ -31,6 +31,9 @@ running order, and the one hard rule about handoffs.
   announcement, or a batch of personalized pitches needs to be written. Writes only — never
   sends. Reads targets from `outputs/contacts/` once `contact-database` exists; researches its
   own targets until then, always deferring to any contact the founder supplies directly.
+- `client-desk` — invoke for day-to-day client work: appearance prep, materials, outreach briefs
+  (handed to `media-desk` for the actual copy), and campaign timelines. Always reads the relevant
+  `clients/<client-slug>.md` file first. First active client: Freda Payne.
 
 ## Handoff rule
 
