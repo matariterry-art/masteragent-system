@@ -1,7 +1,7 @@
 ---
 name: conversion-system-builder
 description: Use this agent to build the conversion mechanics (funnel steps, calls to action, follow-up sequences) once content angles are defined. STUB — not yet configured with real instructions; do not invoke for production work until this is filled in.
-tools: Read, Grep, Glob, Write, Edit
+tools: Read, Grep, Glob, Write, Edit, WebSearch, WebFetch
 model: inherit
 ---
 
