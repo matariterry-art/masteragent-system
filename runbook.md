@@ -7,8 +7,10 @@ running order, and the one hard rule about handoffs.
 
 **Signal-to-conversion chain** (run in this order):
 
-1. `media-contact-builder` — builds and maintains the Hollywood calendar and contact
-   architecture. Run first, and keep it current — everything else depends on its dates.
+1. `media-contact-builder` — builds and maintains the Hollywood calendar and the trade
+   journalist/editor and event-partner contact architecture. Run first, and keep it current —
+   everything else depends on its dates. (Talent-booking-route research now lives in
+   `booking-desk`, not here.)
 2. `market-signal-researcher` — reads the calendar, researches market signals (demand, pricing,
    access), writes `outputs/market-signals.md`.
 3. `offer-architect` — reads the signal report, defines or adjusts the offer. (Stub — prompt
@@ -34,6 +36,12 @@ running order, and the one hard rule about handoffs.
 - `client-desk` — invoke for day-to-day client work: appearance prep, materials, outreach briefs
   (handed to `media-desk` for the actual copy), and campaign timelines. Always reads the relevant
   `clients/<client-slug>.md` file first. First active client: Freda Payne.
+- `booking-desk` — maintains booking intelligence and routes across TV, radio, podcasts, live
+  events, red carpets, and the separate music-radio/chart lane. Run continuously to keep it
+  current. Founder-supplied contacts (including personal numbers) go in
+  `outputs/booking/private-contacts.md`, kept apart from professionally-researched contacts.
+  Works against Freda Payne by name in the live-booking lane; flags relevant finds to
+  `client-desk`.
 
 ## Handoff rule
 

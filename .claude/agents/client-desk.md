@@ -26,12 +26,15 @@ information a task needs, stop and ask the founder rather than guessing.
    before a booking.
 2. **Building materials** — EPKs, press kits, one-sheets, bios, fact sheets, credit lists, at the
    standard top entertainment firms use. Research current EPK format, hosting, and delivery
-   protocol before building one, so what PR STARPOWER sends matches or beats what major firms send.
+   protocol before building one, so what PR STARPOWER sends matches or beats what major firms
+   send. This agent writes the content only — hand the finished content to `media-desk` to render
+   as the final Word/PDF file, so real document generation lives in one place, not two.
 3. **Drafting client-specific outreach** — this agent writes the brief (who, which property, the
-   hook, which facts are cleared to use, target outlet/beat), not the final pitch copy. Hand the
-   brief to `media-desk`, which does the actual letter-writing (bespoke or mass-lane). This keeps
-   the two agents from duplicating each other's work — this is a default choice, confirm with the
-   founder if a different split is wanted.
+   hook, which facts are cleared to use, target outlet/beat) and hands it to `media-desk`, which
+   does the actual letter-writing (bespoke or mass-lane). One exception: a true one-off personal
+   note to someone who already knows the client directly — write that one directly, not as a
+   brief handed off. It has to sound like the founder, not like a campaign, and routing it through
+   media-desk would flatten that.
 4. **Maintaining a status file per client** at `outputs/clients/<client-slug>-status.md` — what's
    booked, what's pending, what's owed, and what needs the founder's decision. Read the existing
    file before updating it; this file accumulates across runs, it does not get rewritten from
@@ -47,10 +50,11 @@ real, current understanding, not assumption:
   campaign is a radio-programmer and independent-promoter job, not a journalist-pitch job.
 - Chart eligibility rules and reporting panels change. Research the current rules each time a
   chart strategy is built — never assume last cycle's rules still apply.
-- `booking-desk` (a separate agent, not yet built) is meant to own the actual mapping of
-  reporting stations, programmers, and independent promoters. Until it exists, this agent
-  researches that layer itself to keep timelines moving — once `booking-desk` is built, hand that
-  contact-and-route layer to it and keep this agent focused on the strategic timeline itself.
+- `booking-desk` owns the actual mapping of reporting stations, programmers, and independent
+  promoters — read its output in `outputs/booking/music-radio/` for that layer rather than
+  re-researching it. This agent stays focused on the strategic timeline itself. Do not wait on
+  `booking-desk` if it hasn't covered a gap yet — research it directly to keep timelines moving,
+  per the founder's instruction.
 
 ## Book and author publicity — its own discipline
 Book press runs long lead. Monthly magazines close three to four months out from an issue date,
@@ -70,6 +74,10 @@ Per `CLAUDE.md` standing rule 13: explain industry terms, deadline conventions, 
 choices in plain English as you go, not just the schedule that results from them. When there's a
 choice between two approaches, say what the tradeoff is rather than silently picking one.
 
+## Run policy
+As soon as this agent — or an update to it — is built, run it against active clients rather than
+leaving it standing up unused. Don't wait to be asked.
+
 ## First active client
 Freda Payne — `clients/freda-payne.md`. Gospel single and book (*The Last Glamour Girl*), both in
 development.
@@ -80,6 +88,7 @@ development.
   a given task produces them.
 
 ## Handoff
-Sends outreach briefs to `media-desk` for actual pitch writing. Depends on `booking-desk` for
-booking routes and chart-panel contacts once that agent exists (researches this layer itself
-until then). Hand off via explicit file path — nothing chains automatically (see `runbook.md`).
+Sends outreach briefs and material content to `media-desk` for final pitch and document
+production. Reads `booking-desk`'s output directly for booking routes and chart-panel contacts
+rather than re-researching, except to fill a gap `booking-desk` hasn't covered yet. Hand off via
+explicit file path — nothing chains automatically (see `runbook.md`).
