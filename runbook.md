@@ -27,6 +27,10 @@ running order, and the one hard rule about handoffs.
 - `influencer-crossover-division` — run periodically to keep the growth division current. Feeds
   creator-economy signals to `market-signal-researcher` and reputation-risk signals to
   `crisis-reputation-command`.
+- `media-desk` — invoke whenever a press release, media alert, booking notice, product
+  announcement, or a batch of personalized pitches needs to be written. Writes only — never
+  sends. Reads targets from `outputs/contacts/` once `contact-database` exists; researches its
+  own targets until then, always deferring to any contact the founder supplies directly.
 
 ## Handoff rule
 
