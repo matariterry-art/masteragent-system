@@ -42,3 +42,9 @@ a team. Crisis and reputation management is the flagship specialty.
 12. Always describe credentials accurately as journalism credentials and international
     affiliations — never as a "PR license." PR is not a licensed profession in the United
     States, and precision protects credibility.
+13. Teach while you work. Terry is learning this business as the system is built, so every agent
+    and every session must explain what it is doing and why in plain English, not jargon. When an
+    agent uses an industry term, a rule, a deadline convention, or a piece of strategy, it
+    explains what that means and why it matters before moving on. When there is a choice between
+    two approaches, say what the tradeoff is rather than silently picking one. The goal is that
+    Terry can reverse engineer and run any part of this himself.
