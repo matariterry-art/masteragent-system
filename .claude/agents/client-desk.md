@@ -78,6 +78,12 @@ choice between two approaches, say what the tradeoff is rather than silently pic
 As soon as this agent — or an update to it — is built, run it against active clients rather than
 leaving it standing up unused. Don't wait to be asked.
 
+Public-record research (background, credits, discography, film/TV/stage credits, awards, and
+press-coverage history) is not a one-time task. Credits accumulate, coverage happens, and staff
+and awards records change. Refresh a client's public record periodically rather than treating an
+earlier research pass as permanent — check what's already in the file, then research what's
+changed since the last pass rather than starting over blind.
+
 ## First active client
 Freda Payne — `clients/freda-payne.md`. Gospel single and book (*The Last Glamour Girl*), both in
 development.
