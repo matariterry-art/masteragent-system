@@ -211,3 +211,384 @@ this plan. Nothing below has been assumed or filled in — these are genuine ope
 None of the above blocks *planning* — this document exists precisely so the shape of both
 timelines is visible without needing every field filled first. But real, dated schedules — not
 frameworks — need these answered.
+
+---
+
+## 5. Part 4 — Brand and Fashion
+
+This section and the one after it were researched and added August 16, 2026, at the founder's
+request, using live web search — not general knowledge, since the mechanics of ambassador deals,
+fashion week access, and TV casting change season to season and firm to firm. As with the sections
+above, nothing here is a promise, a booking, or a plan Freda has agreed to — it is a mechanics
+briefing so the founder can decide what's worth pursuing and in what order.
+
+**Why this section exists alongside the single and book, not instead of them:** per the
+multi-property principle already established in Section 3 above, a brand deal or a TV booking is
+not a fourth, separate lane — it is a *third door* that the single and the book's press hooks can
+open, and that in turn can generate the "current and visible" proof that brand and casting
+decision-makers need to see before they say yes. That connection matters enough that it shows up
+repeatedly below, not as flattery, but because it is the actual mechanism by which any of this
+becomes reachable.
+
+### 5.1 How beauty, fragrance, and fashion brands actually pick ambassadors
+
+**Who decides.** The decision does not sit with one person you can simply reach. It sits inside
+the brand's marketing organization — typically a Chief Marketing Officer or VP of Marketing for
+the brand, working with a talent/celebrity-partnerships function inside marketing (sometimes
+called "talent relations" or "influencer/celebrity marketing"). For beauty brands owned by large
+parent companies (L'Oréal, Estée Lauder, Coty, Unilever), the individual brand's marketing
+director builds the case, but sign-off for a real ambassador deal — the kind with a budget large
+enough to matter — usually has to go up the chain, because these deals run into six and seven
+figures and get treated as a capital marketing decision, not a discretionary one.
+*(Source: [Beauty Marketing in 2026: The Brand-Team Playbook](https://vidpros.com/beauty-marketing/))*
+
+**What the internal case has to include.** Brand teams that want to sign a face have to justify
+the spend to finance the same way any other marketing investment gets justified — with a business
+case, not just enthusiasm. In plain English: the marketing team needs to show projected upper-
+funnel impact (awareness, purchase intent) since a direct sales-lift number is hard to prove before
+the fact, audience/social proof that the person's following is real and engaged, and — increasingly
+— a "why her, why now" values-alignment story, meaning the brand needs to be able to explain
+publicly why this specific person fits this specific brand's positioning, not just that she is
+famous. Reporting on 2026 beauty-marketing planning explicitly notes that brands are moving away
+from picking ambassadors purely on reach, and toward picking people whose story authentically
+overlaps with what the brand is already trying to say.
+*(Sources: [Beauty Marketing in 2026 — vidpros.com](https://vidpros.com/beauty-marketing/), [Best
+Celebrity Partnership Agencies for Major Brands —
+TalentResources](https://www.talentresources.com/best-celebrity-partnership-agencies-for-major-brands))*
+
+**Timing and seasonality — this is the part that most affects what's reachable when.** Big
+campaign-talent decisions are not made on a rolling, walk-in basis. They get built into annual and
+seasonal marketing calendars, planned well in advance of the campaign actually running, tied to
+the retail calendar's major cycles (typically spring and holiday launches for beauty). **In plain
+English: by the time a 2026 beauty campaign is airing, the decision about who's in it was very
+likely made in 2025.** This single fact does more to set realistic expectations for this year than
+anything else in this section — it means most of 2026's ambassador slots are not actually open
+right now, regardless of how strong a pitch is.
+
+**The pitch route.** The standard entry point is talent representation — a personal or commercial
+agent or manager who fields inbound interest from brands and also proactively pitches clients into
+open opportunities — or a specialized celebrity-partnership agency that exists specifically to
+connect brands with talent (the research surfaced firms like TalentResources and Hollywood Branded
+operating in this space). A boutique publicity firm without an agent behind the client is not the
+standard channel brands use to find and vet talent, though a credible firm with real relationships
+can still open a conversation directly with a brand's marketing or communications team — it is
+simply a longer, relationship-built route rather than the default one.
+*(Sources: [How To Approach Talent Agents —
+InfluencerIntelligence](https://www.influencerintelligence.com/blog/TBF/how-to-approach-talent-agents),
+[Best Celebrity Partnership Agencies for Major Brands —
+TalentResources](https://www.talentresources.com/best-celebrity-partnership-agencies-for-major-brands))*
+
+### 5.2 The current landscape for women over 70 in beauty and fashion — researched honestly
+
+This is a real, documented trend, not a hoped-for one — but it is also a smaller, more specific
+lane than "brands love older women now," and it's worth being precise about who has actually done
+it.
+
+**The strongest, most directly on-point precedent:** L'Oréal Paris's "Age Perfect" campaign
+(launched 2015) is the closest existing match to the strategic thesis the founder asked to be
+tested. It featured Helen Mirren (74 at the time) and Jane Fonda (82), and it was explicitly built
+on the brand's own research finding that 70% of women over 55 feel "invisible in society," 87%
+feel underrepresented in advertising, and 81% feel ignored by retailers. That is a brand naming the
+exact problem the thesis assumes — and putting women in their 70s and 80s at the center of the
+answer, not the edge of it. Mirren has remained a L'Oréal ambassador well beyond that campaign.
+*(Sources: [Why make-up brands should embrace the older, bolder woman —
+CosmeticsBusiness](https://www.cosmeticsbusiness.com/news/article_page/Why_makeup_brands_should_embrace_the_older_bolder_woman/147603),
+[L'Oréal Paris – Embracing Ageless Beauty — Realise
+Longevity](https://www.realiselongevity.com/case-studies/loral-paris-embracing-ageless-beauty))*
+
+**Another direct, specific precedent:** CoverGirl signed Maye Musk as a brand ambassador in 2017 at
+age 69 — reported at the time as the oldest CoverGirl ambassador ever signed — and she continued
+appearing in campaigns for the brand's "Simply Ageless" line, aimed specifically at older skin,
+into her 70s.
+*(Sources: [Maye Musk, 69, is Now a CoverGirl — Stanford
+Longevity](https://longevity.stanford.edu/maye-musk-69-is-now-a-covergirl/), [Maye Musk is a Beauty
+Influencer at 73 — Beauty Packaging](https://www.beautypackaging.com/breaking-news/maye-musk-is-a-beauty-influencer-at-73/))*
+
+**More recent, 2025-2026 examples — smaller brands, but real and current:** press is now
+describing a "greynaissance" in fashion imagery. Specific, named examples found: Lauren Hutton
+(82) fronting Jacques Marie Mage's Spring 2026 eyewear campaign; Maye Musk (77) as the face of
+British label Really Wild's Autumn/Winter 2025 collection; 74-year-old model Colleen Heidemann
+featured in beauty brand Refy's TikTok content; and Sézane signing a Japanese couple in their 70s
+(Aki and Koichi) for a social campaign.
+*(Sources: [How the "Greynaissance" is Reshaping Fashion —
+Zoomer](https://zoomer.com/the-zoomerist-home/2026/05/22/how-the-greynaissance-is-reshaping-fashion-imagery),
+[Are Over-50 Influencers Brands' Next Big Marketing Opportunity? —
+Fashionista](https://fashionista.com/2025/10/influencers-creators-over-50-age-diversity-fashion-beauty-business))*
+
+**The honest caveat, straight from the research, not softened:** coverage of this trend explicitly
+flags that most of the women being cast this way are already-famous actors or models who are thin,
+wealthy, and have access to professional styling and grooming — meaning the "representation"
+argument, while real, is still operating inside a narrow beauty standard, not a wide-open one.
+That caveat matters for Freda specifically: it is not a disqualifier, since she has a documented
+performing and public-facing career and photographs as a glamorous public figure — but it does mean
+the honest read is that this lane rewards a *specific* kind of "unmistakably glamorous," not
+visibility alone.
+*(Source: [Are Over-50 Influencers Brands' Next Big Marketing Opportunity? —
+Fashionista](https://fashionista.com/2025/10/influencers-creators-over-50-age-diversity-fashion-beauty-business))*
+
+**On Fenty Beauty specifically, tested honestly per the founder's instruction:** the research found
+that Fenty's inclusion thesis, as stated by the brand and reported on consistently, is centered on
+shade range and skin-tone diversity (the brand launched with 40 foundation shades and is widely
+credited with forcing the rest of the beauty industry to expand shade ranges) — not on chronological
+age. The research did not surface any current or past Fenty ambassador or campaign built around a
+woman in her 70s or 80s. **This needs to be stated plainly: no evidence was found that Fenty has
+extended its stated inclusion argument to advanced age the way L'Oréal explicitly has.** That does
+not mean Fenty couldn't be pitched on the logic that its own stated values imply this extension —
+but it would be PR STARPOWER making that argument to Fenty, not pointing to something Fenty has
+already done. The thesis is more supportable, with direct existing precedent, at L'Oréal (which has
+already run exactly this play) than at Fenty (which has not, as far as this research found).
+*(Source: [Fenty Beauty's Marketing & Advertising Strategy —
+DigitalAgencyNetwork](https://digitalagencynetwork.com/fenty-beauty-marketing-advertising-strategy/))*
+
+### 5.3 Fashion week access — how it actually works, not how it looks from outside
+
+**New York.** Seats are not allocated by a central fashion-week authority handing out access based
+on merit or fame alone — individual designers and their PR agencies or in-house communications
+teams manage their own guest lists show by show. The realistic route in is a direct relationship
+with that brand's PR/communications team, and credibility helps that request land — an existing
+publication, portfolio, press history, or brand relationship makes a request easier to say yes to.
+*(Source: [Fashion Show Invitations: How To Get Invited To Fashion Week —
+MadamePaulette](https://madamepaulette.com/blog/fashion-show-invitation/))*
+
+**Paris — a genuinely two-layer system, and the more instructive of the two.** Accreditation
+through the Fédération (the umbrella body that runs the official schedule) gets you into shared
+press facilities and the official schedule — it does **not** get you a seat at any specific show.
+Each house manages its own guest list separately, either in-house or through a retained PR agency.
+Press and guest requests typically go out four to six weeks before the season opens, directly to
+that house's own contacts. And the single most useful, most honest sentence found in this research:
+**"A new publication requesting tickets to Chanel or Dior without an existing relationship should
+expect a waiting period measured in seasons, not weeks."** That is the real mechanic — this is a
+multi-season relationship business, not a request-and-receive one.
+*(Source: [How New York Fashion Week Actually Works —
+MadMedia](https://themadmedia.substack.com/p/nyfw-questions-seating-invite-lists), and Paris
+Fashion Week research above)*
+
+**The designer-relationship route, in plain English:** real access comes from a live point of
+contact at a specific house's communications team who already knows Freda's name, or Freda's
+team's name, from prior seasons — built the same way any press relationship is built, through
+repeated, professional contact over time, not a single cold ask. This is worth naming as a
+strategic advantage, honestly: a house looking to seat a recognizable, glamorous legacy figure in
+its front row for gravitas and photo value is a real and plausible ask — it is a lower bar than an
+ambassador deal, and doesn't require Fenty- or L'Oréal-scale budget approval, just a relationship
+and a reason.
+
+### 5.4 Synthesis — what proof and platform a brand would realistically need to see
+
+Putting 5.1 through 5.3 together, here is what actually has to exist before a beauty or fashion
+brand's marketing team could plausibly say yes to an ambassador conversation:
+
+1. **A current, dated news hook.** Per 5.1, marketing teams build the internal "why her, why now"
+   case around something happening right now — this is exactly what the single's chart run and the
+   book's publication would provide once dated, and exactly what's missing while both remain
+   undated. This is the clearest link back to Sections 1–3 of this plan: the brand door and the
+   book/single doors are not separate work, they're sequential.
+2. **A visible, sizeable, engaged platform.** Brand teams increasingly cite audience/social proof
+   as part of the internal case (5.1). The client file does not currently document Freda's social
+   media following or engagement — this is a real, open gap worth flagging to the founder directly,
+   separate from anything about the single or book.
+3. **Existing high-fashion or campaign-caliber visual material.** The Mirren/Fonda/Hutton precedent
+   (5.2) shows brands want to see that someone already photographs like a campaign face before they
+   commit — this points directly back to the "Assets" gaps already flagged in Section 4 above
+   (approved photos, current EPK): building that material is groundwork for this door too, not just
+   for press.
+4. **A route in through representation, not a cold pitch.** Per 5.1 and 5.3, the standard channel
+   is talent/celebrity-partnership representation and warm relationships with brand or house
+   communications teams — meaning the near-term, controllable task is relationship-building with
+   those agencies and teams, not waiting to "pitch" a brand cold.
+
+### 5.5 The ladder — what's reachable when, and why
+
+**Reachable in 2026:** Not a signed ambassador deal — realistically, none. Three separate reasons
+converge: there is no current, dated news hook yet (single and book are both undated); no
+documented current social platform exists in the client file to point to; and most 2026 campaign
+casting decisions were very likely locked into the annual planning cycle back in 2025, per 5.1 —
+meaning most of this year's slots were never actually open to a new conversation starting now, no
+matter how strong the pitch. **What genuinely is reachable this year:** groundwork — updated
+professional photography and a refreshed bio/EPK (materials work already flagged as needed in
+Section 4), and opening relationships with celebrity-partnership agencies and beauty/fashion brand
+communications contacts, with no expectation of a same-year signing. Also realistically reachable
+this year, independent of the brand-deal timeline: a modest fashion week seating ask through any
+existing warm relationship with a designer or house team, which functions as its own visibility and
+photo opportunity rather than as a step toward an ambassador deal.
+
+**Reachable in 2027, with the right sequence:** once the single has a real release date and chart
+run, and the book has a real publication window (both still open decisions per Section 4 above),
+those become the "why now" hooks that make a brand's internal case easier to write. Because brand
+teams plan roughly a year ahead (5.1), outreach to brand marketing/communications contacts and
+celebrity-partnership agencies should realistically begin in the second half of 2026 — even though
+the deal itself, if it happens, would land in 2027 at the earliest. This is a smaller, honest target
+than a marquee global ambassador role: a brand feature, an editorial-style partnership, or inclusion
+in a campaign built around several women, is a more realistic 2027 outcome than a solo, headline
+ambassador contract.
+
+**Not reachable yet, and here's the real reason why, not just "not yet":** a marquee, L'Oréal Age
+Perfect–scale global ambassador role. Mirren and Fonda did not get that deal on the strength of age
+and glamour alone — both had decades of continuous, top-tier film and awards visibility (Oscar wins,
+ongoing lead film careers) running in parallel, right up to the moment the beauty deal happened. The
+beauty deal, in both cases, amplified an already-massive existing media platform; it did not create
+one. Freda's platform is real and legitimate, but it is not currently operating at that contemporary
+visibility scale — which is a mechanics point, not a talent or worthiness point. The realistic
+sequencing is: build the current-visibility platform first (single, book, appearances), then use
+that platform to open brand conversations — not the other way around.
+
+**The single strongest, most honest strategic takeaway from this section:** the "unclaimed
+frontier" thesis is real in spirit but not literally unclaimed — L'Oréal already ran this exact play
+in 2015 and has kept running it. So the actual opportunity for Freda is not "be first," it's "be
+next, and be specific" — a brand doesn't need a second Helen Mirren, it needs its own reason tied to
+its own positioning, and that reason has to be built from a current, visible moment, not from legacy
+credentials alone. Fashion week seating, not an ambassador deal, is the nearer, more controllable
+move worth pursuing now, and it can help build exactly the visible-glamour proof a brand deal would
+eventually need to see.
+
+---
+
+## 6. Part 5 — Television and Casting
+
+### 6.1 Competition and reality television — including Dancing with the Stars, honestly assessed
+
+**The direct answer the founder asked for:** this is fundamentally a casting decision made by the
+show's producers and network, not something that succeeds through a standard publicity pitch. The
+research is explicit and specific on this point: reporting on DWTS casting states plainly that the
+show **"rarely casts a celebrity whose manager, publicist, or agent pitches them for the show."**
+Producers actively scout and reach out, rather than primarily working through inbound pitches. That
+is a materially different mechanic from music or book press, where a well-built pitch from PR
+STARPOWER can genuinely move an outlet. Here, the pitch is not the lever.
+*(Source: [Why 'Dancing with the Stars' Casting Rarely Accepts Celebrities Who Pitch Themselves —
+CheatSheet](https://www.cheatsheet.com/news/dancing-with-the-stars-casting-rarely-accepts-celebrities-pitch-themselves.html/))*
+
+**Who actually decides.** The show's casting team and executive producers (currently including
+casting director/EP Deena Katz, working with showrunner Conrad Green) make these calls in
+coordination with the network (ABC/Disney). Casting is described in industry reporting as a
+**"year-long process"** — meaning producers are already scouting for a future season while the
+current one is airing, not opening a short annual application window.
+*(Sources: search results on Deena Katz / Season 35 casting, and [ABC Fall 2026 Premiere Dates —
+TVInsider](https://www.tvinsider.com/1272492/abc-fall-2026-premiere-dates/))*
+
+**What makes someone castable.** Per the casting director's own stated philosophy and general
+reporting on the show: current relevance and a story people are already following, crossover
+appeal across categories (music, TV, sports, etc., "a little something for everyone"), broad name
+recognition, and — per one EP's own framing — simply being "nice, good people" producers want to
+spend a season with. Social media following increasingly matters too, since producers now scout
+partly through social platforms, per general reality-casting reporting.
+
+**Age is documented as not a barrier — this is worth stating clearly.** The show has cast
+contestants well into their 70s and 80s: Cloris Leachman competed at 82 (the oldest contestant on
+record), Buzz Aldrin at 80, and — most directly relevant as a precedent — **Patti LaBelle, a legacy
+soul and R&B artist, competed at age 70-71 in Season 20 (2015)**. That is a legacy Black female
+soul singer, cast at almost exactly the age Freda is now, which is a genuinely strong, specific,
+real precedent — not a stretch comparison.
+*(Sources: [These Are the Oldest 'Dancing With the Stars' Contestants —
+CheatSheet](https://www.cheatsheet.com/news/oldest-dancing-with-the-stars-contestants.html/),
+['Dancing With the Stars' Season 20 Cast — TVLine](https://tvline.com/casting-news/dancing-with-the-stars-season-20-cast-patti-labelle-hunger-games-590953/))*
+
+**What this means practically, since pitching doesn't work here:** the honest strategic task is
+not "write a DWTS pitch" — it's building Freda's current, visible relevance (through the single's
+chart run and the book's press cycle) to the point where the show's own year-round scouting process
+would plausibly surface her, and separately, cultivating an actual relationship with the show's
+casting/talent team over time, the way a manager or agent would, rather than treating this as a
+one-time outreach brief media-desk could execute.
+
+### 6.2 How legacy recording artists get seen by film and television casting more broadly
+
+Two genuinely different routes exist, and they operate on different rules:
+
+**Route one — traditional scripted/dramatic casting.** This runs through the same process as any
+professional actor: a talent agent submits the client against casting director "breakdowns"
+(project-specific casting notices), and the agent's relationship with casting directors is what
+gets a client into an actual audition room. Legacy artists who have built real second careers here
+— Queen Latifah, Eminem — did it as a sustained, multi-year parallel career, not a single
+appearance. This route requires the thing the client file currently shows as blank: an actual
+talent agent or manager who works film/TV representation, not just music or publicity
+representation.
+*(Source: general casting-industry reporting on agent/casting-director submission process)*
+
+**Route two — "stunt casting" / guest appearances as herself.** This is the lower-bar, faster route,
+and it is almost entirely relationship-driven rather than pitch-driven: a show's creator, cast
+member, or producer who is personally a fan, or a production that specifically needs a real,
+recognizable musician for authenticity in a music-related scene. The Ed Sheeran/Game of Thrones
+cameo is a documented example of this mechanic — it happened because a cast member was a fan and
+producers built a surprise around that personal connection, not because of an outside pitch.
+Specialized on-camera-musician casting services also exist for productions that specifically need a
+real musician on screen (as opposed to an actor lip-syncing), which is a narrower, project-specific
+door.
+*(Source: [On-Camera Musician Casting — Encompass Music
+Partners](https://www.encompassmusicpartners.com/on-camera-musician-casting), [Special Guest — TV
+Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpecialGuest))*
+
+**Worth noting from Freda's own client file:** she already has unverified past screen credits
+(a "Living Single" guest/recurring role, "Nutty Professor II," "Now and Then," "Velvet Goldmine")
+per the Background section of the client file — meaning she has done this before, on some level,
+even if the detail needs confirming against a primary source like IMDb before it's used in any
+pitch. A confirmed, credit-accurate on-screen history is exactly the kind of proof that would make
+either route above more credible to a producer or casting director than starting from zero.
+
+### 6.3 What has to be true first, for each route
+
+- **For DWTS specifically:** an active, current, dated news hook (the single's chart run and/or the
+  book's publication window) that gives producers a real "why her, why now" story to point to,
+  since the show casts on relevance and story, not legacy credentials alone, and does not
+  meaningfully respond to representative pitches.
+- **For scripted guest cameos ("stunt casting"):** an existing personal relationship — with a
+  showrunner, cast member, or producer who already knows Freda or is a fan — or a specific
+  production need for an authentic legacy musician on camera. This is opportunistic and
+  relationship-driven, not a standing campaign PR STARPOWER can run on a schedule. It is worth
+  asking the founder directly whether Freda has any existing personal relationships in current
+  television — this is exactly the kind of true one-off booking that, per client-desk's own job
+  description, should be handled as a direct personal note, not a formal outreach brief, if a
+  specific contact exists.
+- **For traditional dramatic acting roles:** real talent representation for film/TV (an agent or
+  manager who submits against breakdowns), which does not currently exist per the client file's
+  blank Agent field, plus the understanding that this is a separate, sustained career lane from
+  music and book publicity — not something that grows out of a press campaign on its own.
+
+### 6.4 The ladder — what's reachable when, and why
+
+**Reachable in 2026:** Not DWTS, and not for a mechanical reason worth being precise about — Season
+35's cast was being locked through spring and summer 2026, with confirmations reported at events in
+April, May, and June, and the full cast revealed September 2, 2026, ahead of a September 15 premiere.
+That casting window is closing or closed by the time this plan is being written (August 16, 2026),
+so this year's season is not a live target regardless of anything PR STARPOWER does now. A scripted
+cameo or guest appearance this year is possible only opportunistically, through an existing personal
+relationship — worth asking the founder directly whether one exists, since, per client-desk's own
+job description, a true one-off relationship-driven booking like this is handled as a direct note,
+not a campaign.
+*(Source: [ABC Fall 2026 Premiere Dates — TVInsider](https://www.tvinsider.com/1272492/abc-fall-2026-premiere-dates/))*
+
+**Reachable in 2027, with the right sequence:** DWTS Season 36 (a realistic fall 2027 target)
+becomes a genuine, if still competitive and non-guaranteed, possibility if Freda has an active,
+press-generating moment — the single's chart run and/or the book's launch — visible during the
+show's scouting window, which based on this year's pattern would likely run from spring through
+late summer 2027. This is not something PR STARPOWER controls or can pitch into existence, but the
+sequencing is real and controllable: visibility first, DWTS consideration second, never the
+reverse.
+
+**Not reachable yet, and here's why:** a sustained traditional acting career (route one in 6.2).
+This requires actual film/TV talent representation that doesn't currently exist per the client
+file, and a separate, multi-year audition-and-submission track that runs independently of music and
+book publicity. Before investing any real effort here, this is worth a direct founder decision:
+is a formal acting push an actual goal, or is on-screen visibility something Freda would only want
+opportunistically (cameos, appearances as herself, DWTS-style competition visibility)? That answer
+changes whether building film/TV representation is worth pursuing at all, or whether route two
+(opportunistic, relationship-driven guest appearances) is the only lane worth investing in.
+
+**The single strongest, most honest strategic takeaway from this section:** the belief that a
+publicity pitch can land a DWTS booking is the single biggest mechanical misunderstanding worth
+correcting up front — it can't, by the show's own casting team's account. What a publicity campaign
+*can* do is build the current relevance that makes a producer-led scouting conversation possible in
+the first place. Patti LaBelle is the proof this door isn't closed by age — but it was her *current*
+visibility and story at the time, not her legacy catalogue alone, that made her castable. The
+single and the book are not just press properties in their own right — they are the mechanism that
+would eventually make a DWTS or television conversation reachable at all.
+
+---
+
+## Combined note on Sections 5 and 6
+
+Per the multi-property principle in Section 3, the single and the book are not separate from the
+brand and television opportunities described above — they are the prerequisite for them. Nearly
+every "not yet reachable" item in both new sections traces back to the same root cause: no current,
+dated, public news hook exists yet, because neither property has a confirmed date. That is not a
+criticism — both properties are legitimately still in development, per the client file — but it is
+the clearest possible illustration of why Section 4's open decisions (a real release date for the
+single, a real publication window for the book) are not just music- and book-press questions. They
+are the gate in front of the brand and television doors too.
