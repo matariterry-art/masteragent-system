@@ -13,14 +13,12 @@ running order, and the one hard rule about handoffs.
    `booking-desk`, not here.)
 2. `market-signal-researcher` — reads the calendar, researches market signals (demand, pricing,
    access), writes `outputs/market-signals.md`.
-3. `offer-architect` — reads the signal report, defines or adjusts the offer. (Stub — prompt
-   body not yet written.)
-4. `content-angle-strategist` — reads the offer, defines content angles. (Stub — prompt body
-   not yet written.)
-5. `social-content-engine` — reads the content angles and the calendar, builds the Instagram
-   posting calendar and website news feed.
-6. `conversion-system-builder` — reads the content angles, builds the conversion mechanics.
-   (Stub — prompt body not yet written.)
+3. `social-content-engine` — reads the calendar, builds the Instagram posting calendar and
+   website news feed.
+
+`offer-architect`, `content-angle-strategist`, and `conversion-system-builder` were removed
+(August 2026) — generic stubs from before PR STARPOWER's specifics existed, never written, and
+nothing in the business needed them.
 
 **Standing / on-demand agents** (not part of the linear chain):
 
@@ -42,6 +40,10 @@ running order, and the one hard rule about handoffs.
   `outputs/booking/private-contacts.md`, kept apart from professionally-researched contacts.
   Works against Freda Payne by name in the live-booking lane; flags relevant finds to
   `client-desk`.
+- `industry-intelligence` — run weekly, standing brief across craft standard, AI in PR/
+  entertainment, distribution shifts, the business, and tools. Every finding sorted into
+  shipped/demoed/announced-only, with a plain-English "what this means for PR STARPOWER" line.
+  Surfaces findings; doesn't act on them — flags relevant ones to the agent that owns that area.
 
 ## Handoff rule
 
