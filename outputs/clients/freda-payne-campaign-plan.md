@@ -582,13 +582,149 @@ would eventually make a DWTS or television conversation reachable at all.
 
 ---
 
-## Combined note on Sections 5 and 6
+## 7. Part 6 — Warm Access
+
+Researched and appended August 16, 2026, at the founder's request, continuing directly from Part 5.
+Part 5 already established that DWTS "rarely casts a celebrity whose manager, publicist, or agent
+pitches them for the show." This section goes one level deeper: if the formal, outside pitch isn't
+the lever, what about a warm introduction through an existing industry relationship — is that a
+meaningfully different door? The short answer, researched honestly rather than assumed, is: it
+changes *how fast you get in the room*, not *what has to be true to get a yes once you're there*.
+
+### 7.1 The referral/relationship channel — how it's actually distinct from a publicist's pitch
+
+A publicist's pitch, per Part 5, is a formal, outside ask — a representative contacting the show
+to request consideration for a client. The relationship/referral channel is a different thing
+entirely: it's informal, peer-to-peer chatter that happens *inside* the show's own orbit,
+year-round, not a single outreach event. Reporting on DWTS casting specifically confirms this
+happens in practice: the show's own professional dancers "text casting suggestions" to the casting
+director throughout the year, and celebrities sometimes request specific pros — meaning names
+circulate informally among people already inside the production, separate from and prior to any
+formal casting conversation.
+*(Source: ['Dancing With the Stars' Team on Casting Season 34 — Variety](https://variety.com/2025/tv/news/dancing-with-the-stars-casting-season-34-pro-dancers-1236518409/))*
+
+More broadly across the entertainment industry, a "referral" has a specific, meaningful definition
+that's worth being precise about: it is not simply an introduction or a name-drop. Industry usage
+defines a referral as "someone in the know about your skills who can vouch for your professionalism
+and talent" — the referrer is putting their own credibility on the line, not just making an intro.
+Reporting on casting-director relationships states the mechanism plainly: **"casting directors talk
+to each other. They share stories about actors who were difficult, late, or unprofessional... Your
+reputation travels faster than your resume."** That dynamic is not exclusive to scripted casting —
+it describes how trust moves through any tight-knit production community, reality TV included.
+*(Source: [Actors Seeking Agents: What Is a Referral? — Bonnie
+Gillespie](https://bonniegillespie.com/what-is-a-referral/))*
+
+**The honest limit of this channel, stated directly:** a warm referral gets a name taken seriously
+faster and skips the "why should we even listen to this" hurdle a cold pitch has to clear. It does
+not change the substance of the decision. DWTS's own casting director, in reporting found in this
+research pass, states the actual deciding factor plainly — more on this in 7.3 below. A referral
+opens a door; it does not answer the question behind it.
+
+### 7.2 What a referring peer actually has to be able to vouch for
+
+Two layers, and the second is specific to a physically demanding live show like DWTS rather than
+generic to all TV:
+
+**Layer one — professionalism and reliability**, the same thing any industry referral vouches for:
+someone who shows up prepared, takes direction, doesn't create problems on set, and can be trusted
+with the production's time and reputation. This is the baseline; without it, a referral actively
+damages the referrer's own credibility rather than helping the person referred.
+
+**Layer two — physical and schedule readiness, specific to a show like DWTS.** This is a real,
+practical layer of vouching that a general "she'd be great TV" referral does not cover on its own.
+DWTS involves months of daily rehearsal and live weekly performance, and reporting from the show's
+own professional dancers describes the physical demands as "far more intense than they appear on
+television," with real injury and exhaustion risk — a dynamic that applies across ages, not only to
+older contestants, but that raises the stakes of the honest question for anyone at any age. A
+referrer putting a name forward for a show like this is implicitly vouching not just for
+personality and story, but for the person's actual physical capacity and willingness to commit to
+that grind for the length of a season — which means this can't be vouched for casually or
+assumed; it has to be genuinely true.
+*(Source: [11 Big Dancing With The Stars Secrets The Pros Never Wanted You To Know — The
+List](https://www.thelist.com/2058958/biggest-dancing-with-the-stars-secrets/))*
+
+### 7.3 What the casting team wants to see before taking a meeting off a warm intro
+
+This research surfaced the casting director's own stated deciding principle directly, and it's
+worth quoting because it answers this question precisely: asked what she looks for regardless of a
+prospective contestant's age, background, or dance experience, DWTS casting director/EP Deena Katz
+said: **"What Conrad and I both realized over the years is we really want people that really just
+want to be there, who want to do the show... At the end of the day, the audience knows. When
+somebody just wants to be there, it makes it so much better. We've had those times before where you
+kind of had to convince somebody to do it, and that doesn't work. You have to commit your heart and
+soul and just want to be there for all the right reasons."**
+*(Source: ['Dancing with the Stars' Casting Director Breaks Down the First Season 35 Contestants —
+Parade](https://parade.com/tv/dancing-with-the-stars-season-35-2026-cast-casting-director-deena-katz-interview),
+as reported via secondary aggregation of the interview)*
+
+**In plain English, this is the single most important finding in this section:** a warm
+introduction gets a meeting taken more readily and with more built-in trust than a cold pitch would
+get. But once in that meeting, the casting team is evaluating exactly the same things a cold
+submission would be evaluated on — current relevance and a story worth following, genuine desire
+rather than something that needs "convincing," physical and schedule readiness, and camera comfort.
+General reality-TV casting research reinforces this same standard beyond DWTS specifically:
+producers are looking for an authentic, compelling personality, a marketable personal story, and a
+willingness to be emotionally open on camera — none of which a warm relationship can substitute
+for, it can only get someone a fair, fast hearing on it.
+*(Source: [Casting Secrets for Reality TV: Finding Compelling Personalities — C&I
+Studios](https://c-istudios.com/casting-secrets-for-reality-tv-finding-compelling-personalities/))*
+
+### 7.4 Direct answer — what has to already exist before a warm introduction happens
+
+1. **A ready, current "why now" story to tell in the room.** This is the same structural gap Part 5
+   already identified, and it doesn't go away just because the door is warm — without a dated
+   single release or book publication, there is no current news hook to offer even in a trusting,
+   friendly meeting. A warm intro with nothing current to say in the room ends the same way a cold
+   pitch would: politely, with "not right now."
+2. **A clear, human personal narrative, not just a credentials list.** Per 7.3, casting wants
+   emotional openness and a story, not a résumé recitation. "Six decades in the business" is a
+   credential; "why gospel, why now, what this chapter means to her" is a story. These need to be
+   worked out and rehearsed before anyone is in the room, warm door or not.
+3. **Current, camera-ready visual material.** A casting team meeting her in person will still form
+   an instant visual impression, and updated, current photography (not archival press photos) helps
+   that meeting land the way a legacy-only image gallery wouldn't. This is the same materials gap
+   already flagged in Part 4 and in Section 4 of this plan.
+4. **An honest, settled answer from Freda herself, before any relationship is spent.** Per the
+   casting director's own "one rule" in 7.3, a person who needs convincing is disqualifying on its
+   face — and per 7.2, a referrer's own credibility is on the line for physical and schedule
+   readiness specifically. This has to be a real, direct conversation between the founder and Freda
+   — does she actually want to do something like this, and can she commit to it — settled *before*
+   anyone is asked to vouch for her, not discovered after a relationship has already been spent
+   opening the door.
+5. **Worth naming to the founder plainly:** a warm door opened with nothing ready behind it is worse
+   than no door at all, because it spends a real relationship — the referrer's own credibility — on
+   a meeting that most likely ends in the same "not right now" a cold pitch would get, except now a
+   favor has been used up for it. The discipline this implies: identify and nurture warm
+   relationships early (this costs nothing and can happen in parallel with everything else), but
+   hold off on actually *using* one until the material in items 1–4 above is genuinely ready.
+
+### 7.5 Direct, honest verdict — does warm access meaningfully change the calculus from Part 5?
+
+**No, not fundamentally, and it would be overselling the relationship angle to say otherwise.**
+Warm referral changes speed and trust at the front door — a known, vouched-for name gets a real,
+fast meeting instead of being filtered out at the inbox level the way a cold agency pitch often is.
+But it does not change what has to be true to walk out of that meeting with a yes. Every gate Part 5
+already identified — a current, dated news hook; genuine desire and demonstrated readiness; a
+compelling, current-relevance story rather than legacy credentials alone — still has to exist,
+warm door or not, because the casting team's own stated standard doesn't bend for how the
+introduction happened. The practical, honest value of warm access is narrower and more disciplined
+than it might sound: it is a resource worth identifying and quietly building now, in parallel with
+everything else, and then *saving* to spend at the moment the single/book news hook and the rest of
+the material in 7.4 actually exist — not spending it early just because a door happens to be
+available sooner than the readiness is.
+
+---
+
+## Combined note on Sections 5, 6, and 7
 
 Per the multi-property principle in Section 3, the single and the book are not separate from the
-brand and television opportunities described above — they are the prerequisite for them. Nearly
-every "not yet reachable" item in both new sections traces back to the same root cause: no current,
-dated, public news hook exists yet, because neither property has a confirmed date. That is not a
-criticism — both properties are legitimately still in development, per the client file — but it is
-the clearest possible illustration of why Section 4's open decisions (a real release date for the
-single, a real publication window for the book) are not just music- and book-press questions. They
-are the gate in front of the brand and television doors too.
+brand, television, and warm-access opportunities described in Sections 5 through 7 — they are the
+prerequisite for all of them. Nearly every "not yet reachable" finding across all three new sections
+traces back to the same root cause: no current, dated, public news hook exists yet, because neither
+property has a confirmed date. That is not a criticism — both properties are legitimately still in
+development, per the client file — but it is the clearest possible illustration of why Section 4's
+open decisions (a real release date for the single, a real publication window for the book) are not
+just music- and book-press questions. They are the gate in front of the brand, television, and
+warm-relationship doors too. Section 7 adds one further refinement worth carrying forward: even a
+warm, trusted relationship cannot substitute for that gate being open — it only determines how
+quickly and how favorably the conversation happens once it is.
