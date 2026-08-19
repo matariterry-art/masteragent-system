@@ -39,8 +39,13 @@ nothing in the business needed them.
   entertainment, distribution shifts, the business, and tools. Every finding sorted into
   shipped/demoed/announced-only, with a plain-English "what this means for PR STARPOWER" line.
   Surfaces findings; doesn't act on them — flags relevant ones to the agent that owns that area.
-- `global-spotlight` — the firm's standing intelligence desk and its most valuable long-term
-  asset. Owns and maintains `outputs/spotlight/`: the categorized contact database (genre,
+- `global-spotlight` — the firm's standing intelligence desk, booking and talent operation, and
+  its most valuable long-term asset. Runs **Active Pitching**: builds ranked target lists across
+  five lanes (live performance, television, brand/fashion, acting, editorial) for each active
+  client, hunting work rather than waiting to be asked. Target lists go to the founder for
+  approval; only then does `media-desk` draft the actual pitches; only the founder sends, from
+  info@prstarpower.com. Every target logged in `outputs/spotlight/pitch-register.md` from approval
+  through response and follow-up. Owns and maintains `outputs/spotlight/`: the categorized contact database (genre,
   function, geography), the LA/NY newsroom map, TV/talk-circuit route profiles, the
   streaming/studio lane, the music-radio chart lane, live-events, a placement-pattern library
   (which publicists place with which journalists), `sources.md`, and mail-merge-ready
