@@ -53,6 +53,14 @@ nothing in the business needed them.
   stale profile is worse than none. **Known overlap, not yet resolved:** this agent's route-profile
   work covers ground `booking-desk` already maps for TV/radio/podcasts/live events — see the flag
   in `global-spotlight`'s own file. `media-desk` reads targets from here first.
+- `press-room` — a working newsroom, not a media relations tool. Four standing beats: the pulse
+  (what's happening now), the business of the business (power players and moves), AI and
+  technology in entertainment (priority beat, three-bucket sorted), and the money (Wall Street's
+  effect on the industry). Every item disclosed if it touches a client or a firm relationship,
+  sourced, and produced as a real publish-ready HTML file with structured data — but never
+  published; the founder publishes. Full doctrine in `prompts.md`. **Known overlap, not yet
+  resolved:** Beat 3 covers nearly identical ground to `industry-intelligence`'s existing AI area
+  — see the flag in `press-room`'s own file.
 
 ## Handoff rule
 
