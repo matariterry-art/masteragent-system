@@ -45,7 +45,10 @@ nothing in the business needed them.
   client, hunting work rather than waiting to be asked. Target lists go to the founder for
   approval; only then does `media-desk` draft the actual pitches; only the founder sends, from
   info@prstarpower.com. Every target logged in `outputs/spotlight/pitch-register.md` from approval
-  through response and follow-up. Owns and maintains `outputs/spotlight/`: the categorized contact database (genre,
+  through response and follow-up. **In-house booking operation** (per `CLAUDE.md` rule 14): PR
+  STARPOWER is the direct point of contact for venue/festival booking, brand/endorsement
+  negotiation, speaking fees, and sponsorship deals — not routed through outside agents. Market-rate
+  context in `outputs/spotlight/market-rates.md`. Owns and maintains `outputs/spotlight/`: the categorized contact database (genre,
   function, geography), the LA/NY newsroom map, TV/talk-circuit route profiles, the
   streaming/studio lane, the music-radio chart lane, live-events, a placement-pattern library
   (which publicists place with which journalists), `sources.md`, and mail-merge-ready

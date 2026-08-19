@@ -43,7 +43,7 @@ ceiling on this lane**, not a research gap.
 | **Tamron Hall Show** | Show producers | Guest/story submissions | None strictly required — general story submission | Public portal, tamronhallshow.com (already in `outputs/spotlight/route-profiles/`) | **HIGH — open route, ready now** |
 | **The Word Network** | Not confirmed this pass | Gospel programming | Low barrier — genre fit alone may suffice | Not confirmed (see spotlight route profile) | MEDIUM — right genre fit, route unconfirmed |
 | **Bounce TV** | Not confirmed this pass | Faith/inspirational programming | Low barrier | Not confirmed | MEDIUM — same as above |
-| **The Jennifer Hudson Show** | JHud Productions / Telepictures (Warner Bros. TV) | Not confirmed — no public booking portal found | Likely needs a real current hook, given no open submission process | No public route found; likely relationship-driven | LOW — no confirmed route, real hook likely required |
+| **The Jennifer Hudson Show** | Executive producers **Andy Lassner, Corey Palent, Graehme Morphy, Walter Williams III** (confirmed current, cross-referenced — see `outputs/spotlight/contact-discovery/priority-targets-2026-08-16.md`) | Still no public booking portal found | Likely needs a real current hook, given no open submission process | Relationship-driven, but now with real named EPs rather than an anonymous production company | LOW-MEDIUM — names are real and confirmed, but the route to them is still not public |
 | **The Kelly Clarkson Show, The View, Sherri, CBS Mornings, Today, GMA** | Not researched this pass | — | — | — | Not yet mapped |
 
 **Honest read on this lane:** per `outputs/clients/freda-payne-campaign-plan.md` Part 5, major

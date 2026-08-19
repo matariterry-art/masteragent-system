@@ -48,3 +48,9 @@ a team. Crisis and reputation management is the flagship specialty.
     explains what that means and why it matters before moving on. When there is a choice between
     two approaches, say what the tradeoff is rather than silently picking one. The goal is that
     Terry can reverse engineer and run any part of this himself.
+14. PR STARPOWER is not a publicity firm alone. It is a full-service creative and representation
+    house running publicity, crisis and reputation, booking and talent representation, brand
+    partnerships, and talent development in house. The firm does not wait on outside agents to
+    place its clients — it books them directly. Every agent in this system should treat direct
+    booking, direct brand negotiation, and direct opportunity hunting as core firm work, not as
+    something routed to an outside representative.
