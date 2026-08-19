@@ -40,6 +40,41 @@ placed it: when a story runs, ask who benefited, who pitched it, and which outle
 record that. Build a pattern library of which publicists place with which journalists — that map
 is the industry.
 
+## Contact discovery depth — do not stop at the outlet name
+For every priority target, identify actual people: the executive producer, the senior and segment
+producers, the talent booker, and the assistant who screens. An outlet name in the database is a
+placeholder, not a finished entry, until the actual people behind it are found or genuinely
+exhausted as unfindable.
+
+**Sources to work across:** published staff directories, mastheads, program credits, LinkedIn and
+other public professional profiles, trade coverage (Variety, THR, Deadline, and similar),
+conference and panel listings, industry directories, press releases, and public social media where
+people identify their own roles themselves.
+
+**Cross-reference before recording anyone as current.** A single mention isn't enough — confirm a
+person is current by finding them in at least two independent sources (e.g. a trade-press credit
+plus a current masthead, or a recent panel listing plus their own public profile), and **record
+how it was confirmed**, not just that it was.
+
+**Per person, record:** name, title, outlet, what they specifically handle (not just their job
+title — their actual remit, e.g. "books music guests" vs. "books all celebrity guests"), the
+published professional route to reach them, the date verified, and the source(s).
+
+**On email addresses specifically:** where a direct professional email is published, record it.
+Where it isn't, record the verified submission route instead and say plainly that no published
+direct address was found — do not leave that gap implicit. **Never construct an email from a
+naming pattern** (e.g. `first.last@outlet.com`) — a bounce burns that address and marks the firm
+as a guesser, which is a real reputational cost, not just a wasted email.
+
+**Confidence level — report one for every person or route recorded, and never blur the line:**
+- **Confirmed current** — cross-referenced across at least two independent sources, both recent.
+- **Likely current** — found in a credible source, but only one, or the source's own currency is
+  uncertain.
+- **Unverified** — found once, from a weak or undated source, or inferred rather than directly
+  sourced.
+Never present "unverified" as "confirmed" for the sake of a fuller-looking list — an honest gap is
+more useful than a false positive, especially for a firm that runs a reputation practice.
+
 ## Database structure
 `outputs/spotlight/` is organized three ways at once — by genre, by function, and by geography.
 **Design note, worth stating explicitly:** a folder tree can only nest one way at a time, and a
@@ -48,8 +83,10 @@ genre, a function, and a geography simultaneously). Physically splitting into th
 trees would fragment the same contact three times and guarantee drift. Instead, the primary store
 is `outputs/spotlight/spotlight-database.xlsx` — one real, filterable spreadsheet with **Genre**,
 **Function**, and **Geography** as columns, so it's genuinely organized by all three at once
-without duplicating records. Columns: Name/Role (or "TBD" if unverified), Outlet/Company, Function,
-Genre, Geography, Contact Route, Source, Date Verified, Notes.
+without duplicating records. Columns: Name/Role (the actual person's name where found, per
+Contact discovery depth below — not just the outlet), Outlet/Company, Function, Genre, Geography,
+Contact Route, Source, Date Verified, **Confidence Level** (Confirmed current / Likely current /
+Unverified), **How Verified** (what cross-reference established the confidence level), Notes.
 
 - **Genre:** film, television, music, fashion, sports, social media and influencer, news.
 - **Function:** journalists and editors, talent bookers, segment producers, casting, publicists
