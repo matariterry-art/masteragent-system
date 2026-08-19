@@ -1,9 +1,9 @@
 # Music Radio Lane — Gospel Airplay Chart Route
 
-**Built by:** booking-desk (run directly in-session — the `booking-desk` subagent type had not
-yet registered as invocable at build time; this run followed `.claude/agents/booking-desk.md`
-exactly, including the two-tier contact rule).
-**Run date:** August 16, 2026
+**Originally built by:** `booking-desk` (retired August 16, 2026, merged into `global-spotlight`
+per the founder's instruction — a booker and a journalist are often the same building, and two
+separate databases would drift apart). Migrated here with its original verification date intact.
+**Originally run:** August 16, 2026. **Migrated:** August 16, 2026.
 **Priority:** Freda Payne's single needs a radio promoter engaged before her September 1 finish
 target, so servicing can start the moment the master is locked (see
 `outputs/clients/freda-payne-campaign-plan.md`).
@@ -26,6 +26,7 @@ composition changes, and this needs verification directly with Luminate/Mediabas
 before being used to set expectations with Freda.
 *(Sources: [Gospel Airplay chart](https://www.billboard.com/charts/gospel-airplay/), [National
 Radio Airplay FAQ — Devine Jamz](https://www.devinejamz.com/top-christian-radio-airplay-faq/))*
+**Verified:** 2026-08-16.
 
 ## Independent gospel radio promoters — found this run
 None of these are vetted recommendations — they are candidates surfaced by research, for the
@@ -37,11 +38,12 @@ founder to evaluate and choose from (or reject).
    (per their own site, via search summary): submit the song with the artist's story, sound, and
    message; team evaluates for marketability and presentation; they recommend starting with a
    consultation. **No pricing found in this pass** — would need direct contact.
-   *(Source: [devinejamz.com](https://www.devinejamz.com/))*
+   *(Source: [devinejamz.com](https://www.devinejamz.com/))* **Verified:** 2026-08-16.
 2. **Gospel Airplay Now** — offers gospel radio "servicing options" per its site (page title
    confirmed via search, content not independently fetched this run — re-check directly before
    using).
    *(Source: [gospelairplaynow.com/servicing-options](https://gospelairplaynow.com/servicing-options/))*
+   **Verified:** 2026-08-16.
 3. **Flag — do not use without scrutiny:** a Fiverr listing ("Mediamonarch") offers to blast a
    song to "up to 500 gospel Christian radio stations" for $5 in 3 days. This is very unlikely to
    route through the actual Mediabase-monitored panel that determines chart position — a $5,
@@ -63,6 +65,7 @@ founder to evaluate and choose from (or reject).
 *(Sources: [Radio Promotion for Independent Artists: 2026 Guide —
 Chartlex](https://www.chartlex.com/blog/marketing/radio-promotion-independent-artists-2026),
 [How to Get Radio Airplay Independently](https://orionpromotion.com/radio-airplay/))*
+**Verified:** 2026-08-16.
 
 ## What this means for the September 1 target
 Whichever promoter is chosen, the practical planning rule is the same one already in the campaign

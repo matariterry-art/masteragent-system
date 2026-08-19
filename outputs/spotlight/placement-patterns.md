@@ -16,7 +16,7 @@ assigned more ad hoc than as a dedicated beat, which is itself a useful finding.
 
 ## What this means for the founder
 Do not expect this file to be a mature "who places with whom" map yet — it isn't, honestly. The
-real, current beat pattern found in this pass: outlets like EURweb (per `booking-desk`'s earlier
+real, current beat pattern found in this pass: outlets like EURweb (per `media-desk`'s earlier
 research) run dedicated gospel sections with a recurring editorial slot, which is a stronger,
 more findable pattern than trying to track individual trade-press bylines. Future passes should
 build outward from outlets with dedicated recurring sections/franchises (like EURweb's Gospel

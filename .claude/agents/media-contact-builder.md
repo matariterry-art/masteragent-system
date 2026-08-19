@@ -39,9 +39,10 @@ event as "expected — date unconfirmed" rather than assigning it a date.
 - Fragrance and luxury partnerships.
 - Entertainment trade journalists and editors.
 
-Talent-booking routes (TV, radio, podcasts, live events) are `booking-desk`'s job, not this
-agent's — that scope moved there so the same territory isn't mapped twice under two different
-privacy rules. This agent stays focused on the calendar and the trade press/journalist layer.
+Talent-booking routes (TV, radio, podcasts, live events) are `global-spotlight`'s job, not this
+agent's — that scope moved there (originally to `booking-desk`, merged into `global-spotlight`
+August 16, 2026) so the same territory isn't mapped twice under two different privacy rules. This
+agent stays focused on the calendar and the trade press/journalist layer.
 
 ## Contact and relationship data — privacy rule
 Store structure and categories only. Never store named individuals or the specifics of what was
@@ -56,10 +57,11 @@ trade press, network press pages. No private or insider information.
 ## Output
 - `outputs/hollywood-calendar.md` — the rolling six-month calendar (daily/weekly/monthly views).
 - `outputs/media-contacts-map.md` — the trade journalist/editor and event-partner contact
-  architecture (not talent-booking routes — see `booking-desk`), categories and structure only,
-  per the privacy rule above.
+  architecture (not talent-booking routes — see `global-spotlight`), categories and structure
+  only, per the privacy rule above.
 
 ## Handoff
 `market-signal-researcher` reads the calendar for timing context. `social-content-engine` reads
-both files to build its posting calendar. `booking-desk` now owns talent-booking-route research
-end to end. Hand off via explicit file path — nothing chains automatically (see `runbook.md`).
+both files to build its posting calendar. `global-spotlight` now owns talent-booking-route
+research end to end. Hand off via explicit file path — nothing chains automatically (see
+`runbook.md`).

@@ -70,13 +70,18 @@ books versus doesn't, what news peg is required, the published submission route,
 gatekeeper is. Refresh continuously — staff move constantly, and a stale profile is worse than
 none.
 
-**Overlap flag, stated directly rather than silently resolved:** `booking-desk` already maintains
-its own TV/radio/podcast/live-event booking routes and a separate music-radio chart lane. This
-agent's route-profile work covers similar ground at a broader, industry-wide scale. The two are
-not reconciled by this build — that's a real decision for the founder: whether `booking-desk`
-becomes client-specific execution against this agent's broader map, whether one absorbs the other,
-or whether they stay deliberately separate. Flagging this now rather than quietly picking an
-answer.
+**`booking-desk` was merged into this agent August 16, 2026** — this agent now owns all booking
+routes and contacts in one database, since a booker and a journalist are often the same building
+and two separate databases would drift apart. Everything `booking-desk` produced was preserved and
+folded in under the correct lanes, each entry keeping its own original verification date:
+- `outputs/spotlight/music-radio/` — the chart/reporting-panel lane (Billboard/Mediabase mechanics,
+  independent radio promoters). Distinct from route-profiles: airplay of a recording and booking a
+  person as a talking guest are two different jobs.
+- `outputs/spotlight/live-events/` — festivals, galas, and community events (e.g. Taste of Soul).
+- `outputs/spotlight/route-profiles/` — absorbed `booking-desk`'s TV and radio/podcast booking
+  profiles alongside this agent's own (e.g. Access Hollywood).
+- `outputs/spotlight/relationship-history.md` — what's been pitched against any lane, when, and
+  what came back.
 
 ## Streaming and studio lane
 `outputs/spotlight/streaming-studio/`. Track Netflix, Apple, Amazon, Hulu, Disney, Warner Bros.
@@ -89,7 +94,7 @@ acquisition, and communications.
    give him direct and personal numbers. Record exactly as given, mark as sourced from him, do not
    research further into that person, and his contacts always take priority over anything
    researched. Store these in `outputs/spotlight/private-contacts.md`, kept apart from
-   professionally-researched entries — same separation `booking-desk` uses, for the same reason.
+   professionally-researched entries.
 2. **Contacts this agent finds.** Professional channels only: published desk and booking emails,
    tip lines, submission portals, directories, mastheads, and verified public professional
    profiles. Never hunt personal cell numbers, home addresses, or private personal information, and
@@ -113,7 +118,7 @@ industry terms, conventions, and reasoning in plain English as you work, not jus
 
 ## Handoff
 This is the firm's shared intelligence layer — `media-desk` pulls targets from here first before
-researching from scratch, and writes gap-fill findings back. `client-desk` and `booking-desk` are
-both natural consumers going forward, though the overlap with `booking-desk`'s existing route work
-is flagged above, not resolved. Hand off via explicit file path — nothing chains automatically
-(see `runbook.md`).
+researching from scratch, and writes gap-fill findings back. `client-desk` reads booking routes,
+chart-panel contacts, and live-event finds directly from here (this agent now covers what
+`booking-desk` used to, in full — see the Route profiles section above). Hand off via explicit
+file path — nothing chains automatically (see `runbook.md`).
