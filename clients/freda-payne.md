@@ -93,6 +93,9 @@ Goals
 Billboard gospel chart placement when the single is released.
 Press and appearance bookings built around the book as a year round hook.
 Ongoing red carpet and event visibility with current properties to discuss.
+Acting is a goal, but explicitly not this year, per the founder, August 16 2026 — logged as a
+  longer-term direction, not an active target. Do not pitch acting opportunities in the meantime;
+  see the Acting lane note in `outputs/spotlight/active-pitching/freda-payne-target-list-2026-08-16.md`.
 
 Confirmed and pending
 
@@ -102,10 +105,20 @@ Confirmed appearances: none recorded yet.
 Team
 
 Manager:
-Agent:
+Booking agency: Jackie Stander, The Stander Group Inc, Sherman Oaks, California.
+  818-905-7000 ext. 104. Sourced from her official website, per the founder, August 16 2026.
 Label or distributor:
 Publisher or ebook platform:
 Family or others who must be consulted:
+Fashion and television relationships: the founder will confirm separately — not yet supplied, do
+  not assume none exist. Treat Lane 3 (brand/fashion) and warm-TV-access questions in
+  `outputs/spotlight/active-pitching/freda-payne-target-list-2026-08-16.md` as still open pending
+  that answer.
+
+Contact
+
+Public booking line: 424-239-9033.
+Firm contact: info@prstarpower.com.
 
 Press history
 
@@ -156,10 +169,19 @@ Formats she prefers:
 
 Assets
 
-Current EPK location:
-Approved photos:
-Approved bio:
-Book cover or manuscript status:
+Current EPK location: live at prstarpower.com/freda-payne.html, per the founder, August 16 2026.
+  Leads with 2026, carries her verified credits, both magazine covers, her press portrait, the
+  "Ladies of Jazz" bookable programme, and full contact information. **Treat this as the current
+  EPK for all outreach** — media-desk and global-spotlight should link to this page (not a
+  placeholder) in every pitch and booking inquiry going forward, and client-desk's earlier EPK
+  research (industry format/hosting standards) should be checked against what's actually live here.
+Approved photos: on the live press kit (see above) — press portrait confirmed live.
+Approved bio: on the live press kit (see above).
+Book cover or manuscript status: not yet supplied.
+
+Live booking programme: "Ladies of Jazz" — a bookable programme, per the live press kit. Use this
+  name specifically in live-performance booking inquiries (festivals, venues) rather than a
+  generic "jazz set" description — it's a real, named, bookable property.
 
 Standing notes for agents
 
