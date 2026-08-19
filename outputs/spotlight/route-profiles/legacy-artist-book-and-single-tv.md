@@ -1,8 +1,8 @@
-# National TV Lane — Profile: Legacy Artist With a Book and a Single
+# Route Profile — National TV — Legacy Artist With a Book and a Single
 
-**Built by:** booking-desk (run directly in-session — see registration note in
-`../music-radio/gospel-airplay.md`).
-**Run date:** August 16, 2026
+**Originally built by:** `booking-desk` (retired August 16, 2026, merged into `global-spotlight`).
+Migrated here with its original verification date intact.
+**Originally run:** August 16, 2026. **Migrated:** August 16, 2026.
 **Status:** Beginning the map, per the founder's instruction — not exhaustive, built out further
 over time.
 **Profile this map is built around:** a legacy R&B/soul/gospel artist with two concurrent hooks —
@@ -25,6 +25,7 @@ standing rule 13.
   This is a real, published route — not a guess. **Correct department:** show producers via the
   official submission portal, not general show contact.
   *(Source: [Terms of Submission — Tamron Hall Show](https://tamronhallshow.com/terms-of-submission/))*
+  **Verified:** 2026-08-16.
 - **The Kelly Clarkson Show, The View, Sherri** — not independently researched this run; flagged
   as next targets for the same submission-route research, given the same daytime-talk fit.
 
@@ -35,16 +36,18 @@ standing rule 13.
   strong fit for the gospel single specifically — a much lower barrier to entry than mainstream
   daytime talk, and an audience that already cares about gospel chart activity.
   *(Source: [About the Word Network](https://www.thewordnetwork.org/about-twn/))*
+  **Verified:** 2026-08-16.
 - **Bounce TV** — targets African American adult audiences with a mix including inspirational,
   faith-based programming (e.g. gospel-performance-focused segments like "BSJ's Back Stage Pass").
   Worth investigating as a secondary faith/legacy-audience outlet.
   *(Source: search-result summary of Bounce TV programming — not independently fetched this run.)*
+  **Verified:** 2026-08-16.
 
 ## What's still missing (this is a start, not a finished map)
-- Direct booking-desk/producer contacts for The Kelly Clarkson Show, The View, Sherri, CBS
-  Mornings, Today, and GMA — none researched yet this run.
-- LA and NY local news — not yet started; this is the priority-market piece of `booking-desk`'s
-  brief and needs its own dedicated pass.
+- Direct producer contacts for The Kelly Clarkson Show, The View, Sherri, CBS Mornings, Today, and
+  GMA — none researched yet this run.
+- LA and NY local news — not yet started; this is a priority-market piece and needs its own
+  dedicated pass.
 - Confirmed submission routes (vs. general "about" pages) for The Word Network and Bounce TV —
   found *that* they cover this kind of talent, not yet *how* to formally pitch them.
 

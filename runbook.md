@@ -10,7 +10,7 @@ running order, and the one hard rule about handoffs.
 1. `media-contact-builder` — builds and maintains the Hollywood calendar and the trade
    journalist/editor and event-partner contact architecture. Run first, and keep it current —
    everything else depends on its dates. (Talent-booking-route research now lives in
-   `booking-desk`, not here.)
+   `global-spotlight`, not here.)
 2. `market-signal-researcher` — reads the calendar, researches market signals (demand, pricing,
    access), writes `outputs/market-signals.md`.
 3. `social-content-engine` — reads the calendar, builds the Instagram posting calendar and
@@ -35,12 +35,6 @@ nothing in the business needed them.
 - `client-desk` — invoke for day-to-day client work: appearance prep, materials, outreach briefs
   (handed to `media-desk` for the actual copy), and campaign timelines. Always reads the relevant
   `clients/<client-slug>.md` file first. First active client: Freda Payne.
-- `booking-desk` — maintains booking intelligence and routes across TV, radio, podcasts, live
-  events, red carpets, and the separate music-radio/chart lane. Run continuously to keep it
-  current. Founder-supplied contacts (including personal numbers) go in
-  `outputs/booking/private-contacts.md`, kept apart from professionally-researched contacts.
-  Works against Freda Payne by name in the live-booking lane; flags relevant finds to
-  `client-desk`.
 - `industry-intelligence` — run weekly, standing brief across craft standard, AI in PR/
   entertainment, distribution shifts, the business, and tools. Every finding sorted into
   shipped/demoed/announced-only, with a plain-English "what this means for PR STARPOWER" line.
@@ -48,11 +42,13 @@ nothing in the business needed them.
 - `global-spotlight` — the firm's standing intelligence desk and its most valuable long-term
   asset. Owns and maintains `outputs/spotlight/`: the categorized contact database (genre,
   function, geography), the LA/NY newsroom map, TV/talk-circuit route profiles, the
-  streaming/studio lane, a placement-pattern library (which publicists place with which
-  journalists), `sources.md`, and mail-merge-ready `distribution/` lists. Run continuously — a
-  stale profile is worse than none. **Known overlap, not yet resolved:** this agent's route-profile
-  work covers ground `booking-desk` already maps for TV/radio/podcasts/live events — see the flag
-  in `global-spotlight`'s own file. `media-desk` reads targets from here first.
+  streaming/studio lane, the music-radio chart lane, live-events, a placement-pattern library
+  (which publicists place with which journalists), `sources.md`, and mail-merge-ready
+  `distribution/` lists. Run continuously — a stale profile is worse than none. **`booking-desk`
+  was retired and merged into this agent August 16, 2026** — everything it produced (the gospel
+  radio lane, Taste of Soul research, TV/podcast maps) was preserved and folded in under the
+  correct lanes, each entry keeping its own original verification date. `media-desk` and
+  `client-desk` both read targets from here first.
 - `press-room` — a working newsroom, not a media relations tool. Four standing beats: the pulse
   (what's happening now), the business of the business (power players and moves), AI and
   technology in entertainment (priority beat, three-bucket sorted), and the money (Wall Street's

@@ -50,11 +50,11 @@ real, current understanding, not assumption:
   campaign is a radio-programmer and independent-promoter job, not a journalist-pitch job.
 - Chart eligibility rules and reporting panels change. Research the current rules each time a
   chart strategy is built — never assume last cycle's rules still apply.
-- `booking-desk` owns the actual mapping of reporting stations, programmers, and independent
-  promoters — read its output in `outputs/booking/music-radio/` for that layer rather than
-  re-researching it. This agent stays focused on the strategic timeline itself. Do not wait on
-  `booking-desk` if it hasn't covered a gap yet — research it directly to keep timelines moving,
-  per the founder's instruction.
+- `global-spotlight` owns the actual mapping of reporting stations, programmers, and independent
+  promoters — read `outputs/spotlight/music-radio/` for that layer rather than re-researching it.
+  This agent stays focused on the strategic timeline itself. Do not wait on `global-spotlight` if
+  it hasn't covered a gap yet — research it directly to keep timelines moving, per the founder's
+  instruction.
 
 ## Book and author publicity — its own discipline
 Book press runs long lead. Monthly magazines close three to four months out from an issue date,
@@ -95,6 +95,6 @@ development.
 
 ## Handoff
 Sends outreach briefs and material content to `media-desk` for final pitch and document
-production. Reads `booking-desk`'s output directly for booking routes and chart-panel contacts
-rather than re-researching, except to fill a gap `booking-desk` hasn't covered yet. Hand off via
-explicit file path — nothing chains automatically (see `runbook.md`).
+production. Reads `global-spotlight`'s output (`outputs/spotlight/`) directly for booking routes
+and chart-panel contacts rather than re-researching, except to fill a gap it hasn't covered yet.
+Hand off via explicit file path — nothing chains automatically (see `runbook.md`).

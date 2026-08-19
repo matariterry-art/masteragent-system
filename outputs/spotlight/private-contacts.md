@@ -6,7 +6,9 @@ populated by this agent's own research — every entry is something Terry handed
 recorded exactly as given, marked as sourced from him, with how it was obtained noted if he said.
 No further research is ever done into anyone listed here.
 
-**Created:** August 16, 2026, during global-spotlight's first run.
+**Created:** August 16, 2026, during global-spotlight's first run. **Merged** with `booking-desk`'s
+private-contacts file August 16, 2026, when `booking-desk` was retired — both were empty at merge
+time, so no entries were combined, only the two starter files themselves.
 
 ## Entries
 

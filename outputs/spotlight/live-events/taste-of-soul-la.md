@@ -1,8 +1,8 @@
 # Live Events Lane — Taste of Soul, Los Angeles
 
-**Built by:** booking-desk (run directly in-session — see note in `gospel-airplay.md` on subagent
-registration timing).
-**Run date:** August 16, 2026
+**Originally built by:** `booking-desk` (retired August 16, 2026, merged into `global-spotlight`).
+Migrated here with its original verification date intact.
+**Originally run:** August 16, 2026. **Migrated:** August 16, 2026.
 **Client relevance:** Freda Payne — already logged as "pending outreach" in
 `clients/freda-payne.md`. This entry gives that pending item a real route.
 **Sourcing note:** WebFetch was blocked for lasentinel.net this run — everything below comes from
@@ -21,7 +21,7 @@ community-rooted appeal, gospel material in progress).
 **Saturday, October 17, 2026**, Crenshaw Boulevard, Los Angeles.
 *(Source: [Taste of Soul 2026 — Los Angeles
 Sentinel](https://lasentinel.net/taste-of-soul-2026/), [Taste of Soul LA 2026 —
-Falkor](https://www.falkorevents.com/eventcal/event/4960/details/))*
+Falkor](https://www.falkorevents.com/eventcal/event/4960/details/))* **Verified:** 2026-08-16.
 
 ## Who programs talent, and the submission route — this is the real gap
 There is a clear, public **vendor** application process (food, retail, nonprofit, service
@@ -32,6 +32,7 @@ day," which strongly suggests talent booking for the stages is curated directly 
 producers (LA Sentinel / Bakewell Media) rather than run through an open submission portal.
 *(Source: [Taste of Soul — Become a Vendor — LA
 Sentinel](https://lasentinel.net/taste-of-soul-2026/taste-of-soul-become-a-vendor))*
+**Verified:** 2026-08-16.
 
 **Realistic route, given that:** this is a direct-relationship booking, not a form-fill. The
 correct approach is a direct pitch to the Sentinel/Taste of Soul events or talent team — a formal
