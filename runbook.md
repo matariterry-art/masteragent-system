@@ -27,10 +27,11 @@ nothing in the business needed them.
 - `influencer-crossover-division` — run periodically to keep the growth division current. Feeds
   creator-economy signals to `market-signal-researcher` and reputation-risk signals to
   `crisis-reputation-command`.
-- `media-desk` — invoke whenever a press release, media alert, booking notice, product
-  announcement, or a batch of personalized pitches needs to be written. Writes only — never
-  sends. Reads targets from `outputs/contacts/` once `contact-database` exists; researches its
-  own targets until then, always deferring to any contact the founder supplies directly.
+- `media-desk` — PR STARPOWER's senior press operation, not just a writer. Produces outreach
+  (bespoke + mail-merge lanes) paired with a newsroom entry for prstarpower.com/newsroom.html,
+  proposes story angles proactively from client files and the calendar, tracks what's changed in
+  the media landscape each run, and pulls contacts from `outputs/spotlight/` first. Writes and
+  proposes only — never sends, never publishes.
 - `client-desk` — invoke for day-to-day client work: appearance prep, materials, outreach briefs
   (handed to `media-desk` for the actual copy), and campaign timelines. Always reads the relevant
   `clients/<client-slug>.md` file first. First active client: Freda Payne.
@@ -44,6 +45,14 @@ nothing in the business needed them.
   entertainment, distribution shifts, the business, and tools. Every finding sorted into
   shipped/demoed/announced-only, with a plain-English "what this means for PR STARPOWER" line.
   Surfaces findings; doesn't act on them — flags relevant ones to the agent that owns that area.
+- `global-spotlight` — the firm's standing intelligence desk and its most valuable long-term
+  asset. Owns and maintains `outputs/spotlight/`: the categorized contact database (genre,
+  function, geography), the LA/NY newsroom map, TV/talk-circuit route profiles, the
+  streaming/studio lane, a placement-pattern library (which publicists place with which
+  journalists), `sources.md`, and mail-merge-ready `distribution/` lists. Run continuously — a
+  stale profile is worse than none. **Known overlap, not yet resolved:** this agent's route-profile
+  work covers ground `booking-desk` already maps for TV/radio/podcasts/live events — see the flag
+  in `global-spotlight`'s own file. `media-desk` reads targets from here first.
 
 ## Handoff rule
 
