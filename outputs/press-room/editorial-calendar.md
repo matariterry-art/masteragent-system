@@ -5,6 +5,21 @@
 **Window covered:** next 30 days (through roughly September 15, 2026), with two items reaching
 just past that window because the lead time to prepare them starts now.
 
+## Publish status update — August 16, 2026
+Three items are now **live** (produced as real HTML with structured data; awaiting the founder's
+upload to the actual site — this agent cannot publish itself, see hard constraints):
+1. "The AI Video Shakeout Has Already Started" — Beat 3. Ranked #1 below; published as planned.
+2. "The Week Hollywood and the UN Overlap" — Beat 1. Ranked #2 below; published as planned.
+3. "Daytime Syndication Is Losing Real Estate" — Beat 1. **Not originally on this slate** — the
+   next-ranked Beat 1 item ("The Three-City Sprint") was judged not original enough to publish per
+   editorial standard (aggregation of known festival dates, no real insight/connection); this item
+   was built instead from research already in hand (the Kelly Clarkson Show / Sherri closures
+   found during contact discovery), genuinely original once connected, and met the bar.
+
+Item #3 below ("Who Has Power This Quarter: The Warner Bros. Discovery Endgame") remains
+**unpublished** — its sourcing conflict (which bidder currently leads) was never re-verified.
+Do not publish it until that's resolved.
+
 ## How to read this file
 This is the standing slate — updated each run, not recreated. Every item below has a beat, a
 headline, the angle, why it's ranked where it is, sourcing status, and what (if anything) is
