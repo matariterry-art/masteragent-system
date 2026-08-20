@@ -1,4 +1,19 @@
-# Industry Intelligence — Focused Brief: EPK Standards for Legacy Artists
+# [MIGRATED FROM industry-intelligence — retired August 16, 2026, merged into press-room]
+
+**Original file:** `outputs/industry-intelligence/2026-08-16.md`. **Original run date preserved:
+August 16, 2026.** industry-intelligence is now retired; this content is preserved here per the
+founder's instruction, moved under Beat 1 as the closest fit — this brief is craft-standard/format
+research (industry-intelligence's original "craft standard" area), which doesn't map cleanly to
+any of press-room's four beats. Flagging that honestly rather than force-fitting it. **One finding
+below (item 4, AI-discoverability/AEO) is genuinely Beat 3 (AI/technology) material** — cross-tag
+noted, not duplicated into a separate file.
+
+This is internal reference/client-support research, not a publishable editorial piece — it does
+not carry the HTML/structured-data technical requirements that apply to press-room's own original
+editorial output (see `press-room.md`).
+
+---
+
 
 **Run date:** August 16, 2026
 **Scope:** Focused brief, not the full five-area weekly sweep — requested to inform building

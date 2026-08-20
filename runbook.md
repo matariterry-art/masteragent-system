@@ -35,10 +35,6 @@ nothing in the business needed them.
 - `client-desk` — invoke for day-to-day client work: appearance prep, materials, outreach briefs
   (handed to `media-desk` for the actual copy), and campaign timelines. Always reads the relevant
   `clients/<client-slug>.md` file first. First active client: Freda Payne.
-- `industry-intelligence` — run weekly, standing brief across craft standard, AI in PR/
-  entertainment, distribution shifts, the business, and tools. Every finding sorted into
-  shipped/demoed/announced-only, with a plain-English "what this means for PR STARPOWER" line.
-  Surfaces findings; doesn't act on them — flags relevant ones to the agent that owns that area.
 - `global-spotlight` — the firm's standing intelligence desk, booking and talent operation, and
   its most valuable long-term asset. Runs **Active Pitching**: builds ranked target lists across
   five lanes (live performance, television, brand/fashion, acting, editorial) for each active
@@ -58,13 +54,13 @@ nothing in the business needed them.
   correct lanes, each entry keeping its own original verification date. `media-desk` and
   `client-desk` both read targets from here first.
 - `press-room` — a working newsroom, not a media relations tool. Four standing beats: the pulse
-  (what's happening now), the business of the business (power players and moves), AI and
-  technology in entertainment (priority beat, three-bucket sorted), and the money (Wall Street's
-  effect on the industry). Every item disclosed if it touches a client or a firm relationship,
-  sourced, and produced as a real publish-ready HTML file with structured data — but never
-  published; the founder publishes. Full doctrine in `prompts.md`. **Known overlap, not yet
-  resolved:** Beat 3 covers nearly identical ground to `industry-intelligence`'s existing AI area
-  — see the flag in `press-room`'s own file.
+  (what's happening now), the business of the business (power players and moves, plus PR-industry
+  business absorbed from the retired `industry-intelligence`), AI and technology in entertainment
+  (the single priority AI desk, three-bucket sorted), and the money (Wall Street's effect on the
+  industry). Every item disclosed if it touches a client or a firm relationship, sourced, and
+  produced as a real publish-ready HTML file with structured data — but never published; the
+  founder publishes. Full doctrine in `prompts.md`. **`industry-intelligence` was retired August 16,
+  2026 and merged in full** — see `press-room`'s own file for what was preserved and where.
 
 ## Handoff rule
 
