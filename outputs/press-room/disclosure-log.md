@@ -11,3 +11,9 @@ audit trail behind the non-negotiable disclosure rule. Updated each run, not rec
 and none of the five slate items (see `editorial-calendar.md`) touch a PR STARPOWER client or a
 disclosed firm relationship — confirmed, not just assumed. The first real entry here should
 appear the first time a piece does touch one.*
+
+**August 16, 2026 — first three live publishes, checked:** "The AI Video Shakeout Has Already
+Started," "The Week Hollywood and the UN Overlap," and "Daytime Syndication Is Losing Real
+Estate" were each checked against the client and firm-relationship list before publishing. None
+touch a PR STARPOWER client or a disclosed relationship — no disclosure statement was needed or
+added to any of the three, and none was force-inserted where it didn't genuinely apply.
